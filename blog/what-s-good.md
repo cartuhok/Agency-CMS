@@ -5,4 +5,4 @@ title: 'What''s good '
 ---
 This should be working now
 
-![](/static/assets/mountain.jpg)
+![](/static/assets/architecture-blue-sky-building-2976176.jpg)
