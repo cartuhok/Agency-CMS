@@ -14,7 +14,7 @@
     "gatsby-plugin-netlify-cms": "^1.0.0",
     "gatsby-plugin-sharp": "^2.2.28",
     "gatsby-source-filesystem": "^1.5.11",
-    "gatsby-transformer-remark": "^1.7.28",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.2.20"
   }
 }
